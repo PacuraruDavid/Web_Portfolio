@@ -13,10 +13,19 @@ header {
 
 h2 {
     text-align: center;
+    padding-top: 30px;
+}
+
+h3 {
+    padding: 10px;
 }
 
 #main-title {
     color: red;
+}
+
+p {
+    padding: 20px;
 }
 
 nav ul {
@@ -158,3 +167,22 @@ p {
     color: black; }
 #block5 { background-color: #0023FF; }
 #block6 { background-color: #000000; }
+
+.h2_validation {
+    position: relative;
+    top: 10px;
+}
+
+#img-c {
+    width: 400px;
+}
+
+#img-ESporter {
+    width: 400px;
+    height: 130px;
+}
+
+#img-FastNotes {
+    width: 400px;
+}
+
